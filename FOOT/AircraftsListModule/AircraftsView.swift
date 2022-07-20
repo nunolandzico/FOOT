@@ -9,7 +9,10 @@ import SwiftUI
 
 struct AircraftsView: View {
     var body: some View {
-        HStack{Text("Hello, World!")}
+        HStack{
+            Text("Hello, World!")
+            Text("For the commit")
+        }
     }
 }
 
