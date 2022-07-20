@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<allusers>
+<updateversion>20220630</updateversion>
+	<user id="DEFAULT">
+        <userchecklists>
+			<list>B737 POWER UP</list>
+			<list>B737 PREL PREFLT NC BRIEFING</list>
+			<list>B737 NC BRIEFING</list>
+			<list>B737 POWER DOWN</list>
+			
+			<list>B767 POWER UP</list>
+			<list>B767 PREL PREFLT NC BRIEFING</list>
+			<list>B767 NC BRIEFING</list>
+			<list>B767 POWER DOWN</list>
+			
+			<list>B777 POWER UP</list>
+			<list>B777 PREL PREFLT BRIEFING</list>
+			<list>B777 BRIEFING</list>
+			<list>B777 POWER DOWN</list>
+			
+			<list>ENROUTE</list>
+			<list>LVO TAKEOFF</list>
+			<list>LVO APPROACH</list>
+			<list>RNP</list>
+			<list>RWY_CHANGE_CHECKLIST</list>
+        </userchecklists>
+	  <userdocumentation>
+		
+	  </userdocumentation>
+	</user>
+	<user id="CSSIM">
+        <userchecklists>
+			<list>B737 POWER UP</list>
+			<list>B737 PREL PREFLT NC BRIEFING</list>
+			<list>B737 NC BRIEFING</list>
+			<list>B737 POWER DOWN</list>
+			
+			<list>B767 POWER UP</list>
+			<list>B767 PREL PREFLT NC BRIEFING</list>
+			<list>B767 NC BRIEFING</list>
+			<list>B767 POWER DOWN</list>
+			
+			<list>B777 POWER UP</list>
+			<list>B777 PREL PREFLT BRIEFING</list>
+			<list>B777 BRIEFING</list>
+			<list>B777 POWER DOWN</list>
+			
+			<list>ENROUTE</list>
+			<list>LVO TAKEOFF</list>
+			<list>LVO APPROACH</list>
+			<list>RNP</list>
+			<list>RWY_CHANGE_CHECKLIST</list>
+        </userchecklists>
+	</user>
+	<user id="CSTQU">
+        <userchecklists>
+            <list>B737 POWER UP</list>
+			<list>B737 PREL PREFLT NC BRIEFING</list>
+			<list>B737 NC BRIEFING</list>
+			<list>B737 POWER DOWN</list>
+			
+			<list>ENROUTE</list>
+			<list>LVO TAKEOFF</list>
+			<list>LVO APPROACH</list>
+			<list>RNP</list>
+			<list>RWY_CHANGE_CHECKLIST</list>
+        </userchecklists>
+		<userdocumentation>
+		
+		</userdocumentation>
+	</user>
+	<user id="CSTKR">
+        <userchecklists>
+			<list>B767 POWER UP</list>
+			<list>B767 PREL PREFLT NC BRIEFING</list>
+			<list>B767 NC BRIEFING</list>
+			<list>B767 POWER DOWN</list>
+			
+			<list>ENROUTE</list>
+			<list>LVO TAKEOFF</list>
+			<list>LVO APPROACH</list>
+			<list>RNP</list>
+			<list>RWY_CHANGE_CHECKLIST</list>
+        </userchecklists>
+		<userdocumentation>
+		
+		</userdocumentation>
+	</user>
+	<user id="CSTKT">
+        <userchecklists>
+			<list>B767 POWER UP</list>
+			<list>B767 PREL PREFLT NC BRIEFING</list>
+			<list>B767 NC BRIEFING</list>
+			<list>B767 POWER DOWN</list>
+			
+			<list>ENROUTE</list>
+			<list>LVO TAKEOFF</list>
+			<list>LVO APPROACH</list>
+			<list>RNP</list>
+			<list>RWY_CHANGE_CHECKLIST</list>
+        </userchecklists>
+		<userdocumentation>
+		
+		</userdocumentation>
+	</user>
+	<user id="CSTKS">
+        <userchecklists>
+			<list>B767 POWER UP</list>
+			<list>B767 PREL PREFLT NC BRIEFING</list>
+			<list>B767 NC BRIEFING</list>
+			<list>B767 POWER DOWN</list>
+			
+			<list>ENROUTE</list>
+			<list>LVO TAKEOFF</list>
+			<list>LVO APPROACH</list>
+			<list>RNP</list>
+			<list>RWY_CHANGE_CHECKLIST</list>
+        </userchecklists>
+		<userdocumentation>
+			
+		</userdocumentation>
+	</user>
+	<user id="CSTST">
+        <userchecklists>
+			<list>B767 POWER UP</list>
+			<list>B767 PREL PREFLT NC BRIEFING</list>
+			<list>B767 NC BRIEFING</list>
+			<list>B767 POWER DOWN</list>
+			
+			<list>ENROUTE</list>
+			<list>LVO TAKEOFF</list>
+			<list>LVO APPROACH</list>
+			<list>RNP</list>
+			<list>RWY_CHANGE_CHECKLIST</list>
+        </userchecklists>
+		<userdocumentation>
+		
+		</userdocumentation>
+	</user>
+	<user id="CSTSU">
+        <userchecklists>
+			<list>B767 POWER UP</list>
+			<list>B767 PREL PREFLT NC BRIEFING</list>
+			<list>B767 NC BRIEFING</list>
+			<list>B767 POWER DOWN</list>
+			
+			<list>ENROUTE</list>
+			<list>LVO TAKEOFF</list>
+			<list>LVO APPROACH</list>
+			<list>RNP</list>
+			<list>RWY_CHANGE_CHECKLIST</list>
+        </userchecklists>
+		<userdocumentation>
+			
+		</userdocumentation>
+	</user>
+	<user id="CSTSV">
+        <userchecklists>
+			<list>B767 POWER UP</list>
+			<list>B767 PREL PREFLT NC BRIEFING</list>
+			<list>B767 NC BRIEFING</list>
+			<list>B767 POWER DOWN</list>
+			
+			<list>ENROUTE</list>
+			<list>LVO TAKEOFF</list>
+			<list>LVO APPROACH</list>
+			<list>RNP</list>
+			<list>RWY_CHANGE_CHECKLIST</list>
+        </userchecklists>
+		<userdocumentation>
+			
+		</userdocumentation>
+	</user>
+	<user id="CSTFM">
+        <userchecklists>
+            <list>B777 POWER UP</list>
+			<list>B777 PREL PREFLT BRIEFING</list>
+			<list>B777 BRIEFING</list>
+			<list>B777 POWER DOWN</list>
+			
+			<list>ENROUTE</list>
+			<list>LVO TAKEOFF</list>
+			<list>LVO APPROACH</list>
+			<list>RNP</list>
+			<list>RWY_CHANGE_CHECKLIST</list>
+        </userchecklists>
+		<userdocumentation>
+			
+		</userdocumentation>
+	</user>
+	<user id="GUEST">
+        <userchecklists>
+			<list>B737 POWER UP</list>
+			<list>B737 PREL PREFLT NC BRIEFING</list>
+			<list>B737 NC BRIEFING</list>
+			<list>B737 POWER DOWN</list>
+			
+			<list>B767 POWER UP</list>
+			<list>B767 PREL PREFLT NC BRIEFING</list>
+			<list>B767 NC BRIEFING</list>
+			<list>B767 POWER DOWN</list>
+			
+			<list>B777 POWER UP</list>
+			<list>B777 PREL PREFLT BRIEFING</list>
+			<list>B777 BRIEFING</list>
+			<list>B777 POWER DOWN</list>
+			
+			<list>ENROUTE </list>
+			<list>LVO TAKEOFF </list>
+			<list>LVO APPROACH </list>
+			<list>RNP</list>
+			<list>RWY_CHANGE_CHECKLIST</list>
+        </userchecklists>
+		<userdocumentation>
+			
+		</userdocumentation>
+	</user>
+	<user id="EAAMOP">
+        <userchecklists>
+			<list>NO CHECKLISTS AVAILABLE</list>
+        </userchecklists>
+		<urlid>267</urlid>
+	</user>
+	<user id="COMMERCIAL">
+        <userchecklists>
+			<list>ACMI</list>
+        </userchecklists>
+		<urlid>120</urlid>
+	</user>
+	
+</allusers>

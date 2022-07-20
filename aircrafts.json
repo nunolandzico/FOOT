@@ -1,0 +1,33 @@
+{
+    "aircrafts": [
+        {
+            "aircraftId": "CSTQU",
+            "userchecklists": [
+                "B737 POWER UP",
+                "B737 PREL PREFLT NC BRIEFING",
+                "B737 NC BRIEFING",
+                "B737 POWER DOWN",
+            ]
+        },
+        {
+            "aircraftId": "CSTKR",
+            "userchecklists": [
+                "B737 POWER UP",
+                "B737 PREL PREFLT NC BRIEFING",
+                "B737 NC BRIEFING",
+                "B737 POWER DOWN",
+                "RWY_CHANGE_CHECKLIST"
+            ]
+        },
+        {
+            "aircraftId": "CSTKT",
+            "userchecklists": [
+                "B737 POWER UP",
+                "B737 PREL PREFLT NC BRIEFING",
+                "B737 NC BRIEFING",
+                "B737 POWER DOWN",
+                "ENROUTE"
+            ]
+        }
+    ]
+}
