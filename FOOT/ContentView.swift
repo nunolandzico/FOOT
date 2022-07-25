@@ -7,6 +7,7 @@
 
 import SwiftUI
 import CoreData
+import AppCenterCrashes
 
 struct ContentView: View {
     @Environment(\.managedObjectContext) private var viewContext
@@ -16,6 +17,9 @@ struct ContentView: View {
         animation: .default)
     private var items: FetchedResults<Item>
 
+    init(){        
+    }
+    
     var body: some View {
         NavigationView {
             List {
