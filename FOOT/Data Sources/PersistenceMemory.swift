@@ -80,4 +80,8 @@ class PersistenceMemory{
         }
       }.eraseToAnyPublisher()
     }
+    
+    func parseXMLFile(xml: String){
+        
+    }
 }
