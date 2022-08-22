@@ -23,12 +23,20 @@ class FOOTUITests: XCTestCase {
     }
 
     func testExample() throws {
-        // UI tests must launch the application that they test.
-        let app = XCUIApplication()
-        app.launch()
-
-        // Use recording to get started writing UI tests.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        
+        XCTContext.runActivity(named: "screenshot") { activity in
+            XCUIApplication().activate()
+            
+            let ttgc7swiftui19uihostingNavigationBar = XCUIApplication().navigationBars["_TtGC7SwiftUI19UIHosting"]
+            let doneButton = ttgc7swiftui19uihostingNavigationBar.buttons["Done"]
+            
+            let editButton = ttgc7swiftui19uihostingNavigationBar.buttons["Edit"]
+            //doneButton.tap()
+                    
+            
+            XCTAssertEqual(editButton.exists, true)
+        }
+        
     }
 
     func testLaunchPerformance() throws {
